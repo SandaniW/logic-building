@@ -1,0 +1,14 @@
+# Ignore build files
+*.o
+*.out
+*.exe
+
+# Ignore Code::Blocks project files
+*.depend
+*.layout
+*.cbp
+*.workspace
+
+# Ignore compiled binaries (Linux/macOS)
+a.out
+
